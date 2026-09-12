@@ -10,8 +10,8 @@ This repository contains the code used for data analysis and figure generation i
 
 ## Figure Generation
 
-- `Figure/Figure1_ejk.R`
-- `Figure/Figure2_cdefghi.R`
+- `Figure1_ejk.R`
+- `Figure2_cdefghi.R`
 - `SupplementaryFigure2_ef.R`
 - `SupplementaryFigure6_abcd.R`
 - `SupplementaryFigure7_abcde.R`

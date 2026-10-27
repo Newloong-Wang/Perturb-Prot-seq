@@ -16,6 +16,6 @@ This repository contains the code used for data analysis and figure generation i
 - `SupplementaryFigure6_abcd.R`
 - `SupplementaryFigure7_abcde.R`
 - `SupplementaryFigure9_abc.R`
-- `SupplementaryFigure11_b.R`
+- `SupplementaryFigure10_d.R`
 
 These scripts reproduce the corresponding figures presented in the Perturb-Prot-seq manuscript.
